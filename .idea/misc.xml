@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/arg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/arm.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/aus.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/aut.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/aze.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bah.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bel.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ber.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/blr.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bot.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bra.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/brn.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bul.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/bur.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/can.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/chn.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/civ.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/col.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/cro.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/cu.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/cze.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/den.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/dom.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ecu.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/egy.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/esp.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/est.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/eth.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/fij.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/fin.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/fra.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/gbr.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/geo.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ger.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/gha.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/gre.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/grn.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/hkg.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/hun.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ic_arg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ina.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ind.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/iri.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/irl.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/isr.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ita.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/jam.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/jor.xml" value="0.536" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/jpn.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/kaz.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ken.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/kgz.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/kor.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/kos.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ksa.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/kuw.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/lat.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ltu.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mar.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mas.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mda.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mex.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mgl.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/mkd.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/nam.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ned.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ngr.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/nor.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/nzl.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/phi.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/pol.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/por.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/pur.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/qat.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/roc.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/rou.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/rsa.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/slo.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/smr.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/srb.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/sui.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/svk.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/swe.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/syr.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/tha.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/tkm.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/tpe.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/tun.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/tur.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/uga.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ukr.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/usa.xml" value="0.1" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/uzb.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/drawable/ven.xml" value="0.2703125" />
+        <entry key="..\:/Survival_Task/Tokyo2020/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
