@@ -8,7 +8,8 @@ import com.example.tokyo2020.R
 import com.example.tokyo2020.data.domain.Country
 import com.example.tokyo2020.databinding.ItemCountryBinding
 
-class CountryAdapter(private val list: List<Country>): RecyclerView.Adapter<CountryAdapter.CountryViewHolder>() {
+class CountryAdapter(private val list: List<Country>) :
+    RecyclerView.Adapter<CountryAdapter.CountryViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CountryViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_country, parent, false)
         return CountryViewHolder(view)
@@ -29,7 +30,7 @@ class CountryAdapter(private val list: List<Country>): RecyclerView.Adapter<Coun
 
     override fun getItemCount() = list.size
 
-    class CountryViewHolder(viewItem: View): RecyclerView.ViewHolder(viewItem) {
+    class CountryViewHolder(viewItem: View) : RecyclerView.ViewHolder(viewItem) {
         val binding = ItemCountryBinding.bind(viewItem)
     }
 }

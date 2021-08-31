@@ -11,6 +11,7 @@
         android:theme="@style/Theme.Tokyo2020">
         <activity
             android:name=".ui.MainActivity"
+            android:theme="@style/splashScreenTheme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
