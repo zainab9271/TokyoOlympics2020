@@ -23,7 +23,8 @@ class CsvParser(private val context: Context) {
             silverMedal = tokens[Constants.DataColumnIndex.SILVER_MEDAL].toInt(),
             bronzeMedal = tokens[Constants.DataColumnIndex.BRONZE_MEDAL].toInt(),
             total = tokens[Constants.DataColumnIndex.TOTAL].toInt(),
-            flagId = context.resources.getIdentifier(countryCode, "drawable", context.packageName)
+            flagId = context.resources.getIdentifier(countryCode, "drawable", context.packageName),
+            team = tokens[Constants.DataColumnIndex.TEAM]
         )
     }
 }

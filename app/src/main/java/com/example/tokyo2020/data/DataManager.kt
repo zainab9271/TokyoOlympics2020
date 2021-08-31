@@ -10,8 +10,4 @@ object DataManager {
     fun addCountry(country: Country){
         countriesList.add(country)
     }
-
-    fun getListSize(): Int{
-        return countriesList.size
-    }
 }

@@ -8,7 +8,7 @@ import com.example.tokyo2020.R
 import com.example.tokyo2020.data.domain.Country
 import com.example.tokyo2020.databinding.ItemCountryBinding
 
-class CountryAdapter(private val list: List<Country>) :
+class CountryAdapter(private val list: List<Country>, private val listener: CountryActionsListener) :
     RecyclerView.Adapter<CountryAdapter.CountryViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CountryViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_country, parent, false)
@@ -20,6 +20,7 @@ class CountryAdapter(private val list: List<Country>) :
         holder.binding.apply {
             textRank.text = currentCountry.rank.toString()
             imageFlag.setImageResource(currentCountry.flagId)
+            imageFlag.setOnClickListener { listener.onClickFlag(list[position].team) }
             textNoc.text = currentCountry.nocCode
             textGoldMedals.text = currentCountry.goldMedal.toString()
             textSilverMedals.text = currentCountry.silverMedal.toString()
